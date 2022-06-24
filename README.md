@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @baggri
-- 👀 I’m interested in web3 and design
-- 🌱 I’m currently(trying) to learn a lot
-- 💞️ I’m looking to collaborate on whatever
-- 📫 How to reach me reach me on discord manas#9437 or on twitter @manazane
-
+hey, im manas! im a 15 y/o crypto dev from vancouver canada.
+I have exp in solidity, huff, js, python, and a bit of C++
+I am currently working on huff
+i am looking for internships atm
 <!---
 baggri/baggri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
