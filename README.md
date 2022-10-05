@@ -1,10 +1,10 @@
-hey, im manas! im a 15 y/o crypto dev from vancouver canada.
+hey, im manas! im a crypto dev from vancouver canada.
 
 I have exp in solidity, huff, js, python, rust, c++, ether scripts, and testing
 
 I am currently working on optimizing the square root alg and a new way to encode calldata
 
-currently looking for internships and contract work
+currently looking for work, internships and contract work
 
 always down to chat 😁
 <!---
