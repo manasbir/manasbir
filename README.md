@@ -1,6 +1,6 @@
-// TODO
+math @ uwaterloo
 
-// create readme
+LF internships S25
 
 <!---
 baggri/baggri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
